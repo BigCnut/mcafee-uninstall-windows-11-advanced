@@ -46,7 +46,7 @@ Before executing any command, carefully verify:
 3. That every registry key, service, driver, and file being modified or removed is actually associated with McAfee and is not a Windows or third-party component.
 4. That commands referring to drive letters use the drive letters currently assigned in WinRE; these can differ from those used during normal Windows operation.
 5. That paths, service names, driver names, and registry values have been copied or entered exactly as intended.
-6. That the MCPR package and its components are obtained from a trustworthy, current source and are appropriate for the installed McAfee product.
+6. That the MCPR package and its components are obtained from a trustworthy, current source and are appropriate for the installed McAfee product. [E.g.: download MCPR.exe](https://download.mcafee.com/molbin/iss-loc/SupportTools/MCPR/MCPR.exe)
 
 Do not improvise based on similar-looking registry entries, services, or driver names. If a step produces an unexpected result, stop and investigate it rather than continuing with subsequent cleanup operations.
 
