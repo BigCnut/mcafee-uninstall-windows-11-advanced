@@ -245,7 +245,7 @@ Then rerun the VSCore removal command, using a new log file:
 
 Allow the operation to finish.
 
-The successful run in the source conversation removed/de-configured major McAfee components, including protected service and SystemCore/VSCore references. It also reported that some operations were deferred until reboot.
+The successful run removed/de-configured major McAfee components, including protected service and SystemCore/VSCore references. It also reported that some operations were deferred until reboot.
 
 ---
 
